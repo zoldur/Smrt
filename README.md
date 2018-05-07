@@ -50,10 +50,10 @@ smrt-cli getinfo
 Also, if you want to check/start/stop **SmartSpace**, run one of the following commands as **root**:
 
 ```
-systemctl status SmartSpace #To check if SmartSpace service is running  
-systemctl start SmartSpace #To start SmartSpace service  
-systemctl stop SmartSpace #To stop SmartSpace service  
-systemctl is-enabled SmartSpace #To check if SmartSpace service is enabled on boot  
+systemctl status Smrt #To check if SmartSpace service is running  
+systemctl start Smrt #To start SmartSpace service  
+systemctl stop Smrt #To stop SmartSpace service  
+systemctl is-enabled Smrt #To check if SmartSpace service is enabled on boot  
 ```  
 ***
 
